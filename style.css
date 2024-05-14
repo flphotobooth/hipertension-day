@@ -45,7 +45,7 @@ body {
 }
 
 #btnRefresh::before {
-    content: "Reiniciar";
+    content: "Reset";
     position: absolute;
     width: 100px;
     height: 25px;
@@ -70,7 +70,7 @@ body {
 
 
 #btnUpload::before {
-    content: "Subir foto";
+    content: "Upload";
     position: absolute;
     width: 100px;
     height: 25px;
@@ -90,7 +90,7 @@ body {
 }
 
 #btnFlip::before {
-    content: "Girar cámara";
+    content: "Rotate";
     position: absolute;
     width: 100px;
     height: 25px;
@@ -110,7 +110,7 @@ body {
 }
 
 #btnSnapshot::before {
-    content: "Capturar foto";
+    content: "Capture";
     position: absolute;
     width: 120px;
     height: 25px;
@@ -138,7 +138,7 @@ body {
 }
 
 #btnSave::before {
-    content: "Enviar y descargar";
+    content: "Download";
     position: absolute;
     width: 120px;
     height: 40px;
