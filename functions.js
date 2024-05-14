@@ -57,7 +57,7 @@ window.onload = function () {
 
     function guardarFoto() {
 
-        $("#success-msg").html('¡Gracias por enviar tu foto!');
+        $("#success-msg").html('Thank you for sending your picture!');
         $(".camera-actions").css('display','none');
 
         var dataURL = canvas.toDataURL();
@@ -140,7 +140,7 @@ window.onload = function () {
             }    
 
         } else {
-            alert("Debe de seleccionar una imagen.");
+            alert("You must select an image");
         }
     };
     
