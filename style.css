@@ -138,7 +138,7 @@ body {
 }
 
 #btnSave::before {
-    content: "Download";
+    content: "Send and download";
     position: absolute;
     width: 120px;
     height: 40px;
